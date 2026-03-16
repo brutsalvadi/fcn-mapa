@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background -->
+  <rect width="512" height="512" rx="96" fill="#0d1b2a"/>
+
+  <!-- FCN text -->
+  <text x="256" y="210" font-family="Arial Black, Arial, sans-serif"
+        font-size="148" font-weight="900" text-anchor="middle"
+        fill="#f5a623" letter-spacing="-4">FCN</text>
+
+  <!-- Subtitle -->
+  <text x="256" y="268" font-family="Arial, sans-serif"
+        font-size="44" font-weight="600" text-anchor="middle"
+        fill="#8fa8c8" letter-spacing="6">MÀSTER</text>
+
+  <!-- Water waves -->
+  <path d="M56 330 Q96 310 136 330 Q176 350 216 330 Q256 310 296 330 Q336 350 376 330 Q416 310 456 330"
+        fill="none" stroke="#1a6dbd" stroke-width="18" stroke-linecap="round"/>
+  <path d="M56 375 Q96 355 136 375 Q176 395 216 375 Q256 355 296 375 Q336 395 376 375 Q416 355 456 375"
+        fill="none" stroke="#1a6dbd" stroke-width="12" stroke-linecap="round" opacity="0.5"/>
+</svg>
